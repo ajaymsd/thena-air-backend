@@ -15,10 +15,12 @@ const routes = require('./src/routes');
 // Import logger
 const logger = require('./src/utils/logger');
 
+
 // Import worker manager
 const workerManager = require('./src/services/workerManager');
 
 const app = express();
+require('./src/utils/swagger')(app);
 
 // Validate configurations
 try {
