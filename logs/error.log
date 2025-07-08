@@ -1,0 +1,1147 @@
+2025-07-05 23:11:26:1126 [31merror[39m: [31mOrder creation failed: undefined[39m
+2025-07-05 23:11:26:1126 [31merror[39m: [31mPOST /api/payment/create-order - undefined[39m
+2025-07-06 17:09:27:927 [31merror[39m: [31mBooking not found: 5ee4447b-016b-4c62-a2c1-f2534667ce5f permission denied for schema public[39m
+2025-07-06 17:09:27:927 [31merror[39m: [31mFailed to insert payment record: permission denied for schema public[39m
+2025-07-06 17:09:27:927 [31merror[39m: [31mFailed to update booking status: permission denied for schema public[39m
+2025-07-06 17:16:01:161 [31merror[39m: [31mBooking not found: 5ee4447b-016b-4c62-a2c1-f2534667ce5f permission denied for schema public[39m
+2025-07-06 17:16:01:161 [31merror[39m: [31mFailed to insert payment record: permission denied for schema public[39m
+2025-07-06 17:16:02:162 [31merror[39m: [31mFailed to update booking status: permission denied for schema public[39m
+2025-07-06 17:25:43:2543 [31merror[39m: [31mBooking not found: 5ee4447b-016b-4c62-a2c1-f2534667ce5f permission denied for schema public[39m
+2025-07-06 17:25:43:2543 [31merror[39m: [31mFailed to insert payment record: permission denied for schema public[39m
+2025-07-06 17:25:43:2543 [31merror[39m: [31mFailed to update booking status: permission denied for schema public[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:40:3840 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:41:3841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:42:3842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:43:3843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:44:3844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:45:3845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:46:3846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:47:3847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:48:3848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:38:49:3849 [31merror[39m: [31mFailed to start server: Worker initialization timeout[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:10:3910 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:11:3911 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:12:3912 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:13:3913 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:14:3914 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:15:3915 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:16:3916 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:17:3917 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:18:3918 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:19:3919 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:20:3920 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:21:3921 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:39:22:3922 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:05:585 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:06:586 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:07:587 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:08:588 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:09:589 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:10:5810 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:11:5811 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:12:5812 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:13:5813 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:14:5814 [31merror[39m: [31mFailed to start server: Worker initialization timeout[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:26:5826 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:27:5827 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:28:5828 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:29:5829 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:41:5841 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:42:5842 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:43:5843 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:44:5844 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:45:5845 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:46:5846 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:47:5847 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:48:5848 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:49:5849 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:58:50:5850 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:58:51:5851 [31merror[39m: [31mFailed to start server: Worker initialization timeout[39m
+2025-07-06 17:59:42:5942 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:42:5942 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:42:5942 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:42:5942 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:43:5943 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:44:5944 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:45:5945 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:46:5946 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:47:5947 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:48:5948 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:49:5949 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:50:5950 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:51:5951 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:52:5952 [31merror[39m: [31mFailed to start server: Worker initialization timeout[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:54:5954 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:55:5955 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:56:5956 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:57:5957 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:58:5958 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error[39m
+2025-07-06 17:59:59:5959 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:00:00 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:01:01 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:02:02 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:03:03 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:03:03 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:03:03 [31merror[39m: [31mWorker error[39m
+2025-07-06 18:00:03:03 [31merror[39m: [31mWorker error occurred[39m
+2025-07-06 18:00:03:03 [31merror[39m: [31mFailed to start server: Worker initialization timeout[39m
+2025-07-06 18:10:50:1050 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 18:10:50:1050 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 18:18:27:1827 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 18:18:27:1827 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 19:47:48:4748 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 19:47:49:4749 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:20:28:2028 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:20:28:2028 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:39:12:3912 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:39:12:3912 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:46:07:467 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:46:07:467 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:51:37:5137 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 20:51:37:5137 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 21:30:23:3023 [31merror[39m: [31mGET /pdf/download-ticket/8bac1d6d-409b-414b-8f66-ff0a4e03b278 - Not Found - /pdf/download-ticket/8bac1d6d-409b-414b-8f66-ff0a4e03b278[39m
+2025-07-06 21:30:26:3026 [31merror[39m: [31mGET /pdf/download-ticket/8bac1d6d-409b-414b-8f66-ff0a4e03b278 - Not Found - /pdf/download-ticket/8bac1d6d-409b-414b-8f66-ff0a4e03b278[39m
+2025-07-06 21:32:13:3213 [31merror[39m: [31mAuth middleware error: Cannot read properties of undefined (reading 'auth')[39m
+2025-07-06 21:36:33:3633 [31merror[39m: [31mPDF service not available[39m
+2025-07-06 21:42:56:4256 [31merror[39m: [31mError generating PDF: Cannot read properties of undefined (reading 'from')[39m
+2025-07-06 22:29:03:293 [31merror[39m: [31mError generating PDF: Cannot read properties of undefined (reading 'from')[39m
+2025-07-06 22:29:33:2933 [31merror[39m: [31mFailed to generate PDF: Protocol error (Page.printToPDF): Target closed[39m
+2025-07-06 22:29:33:2933 [31merror[39m: [31mError generating PDF: PDF generation failed: Protocol error (Page.printToPDF): Target closed[39m
+2025-07-06 22:31:18:3118 [31merror[39m: [31mPDF generation attempt 1 failed:[39m
+2025-07-06 22:31:18:3118 [31merror[39m: [31mError generating PDF: PDF generation failed after 1 attempts: page.waitForTimeout is not a function[39m
+2025-07-06 22:32:17:3217 [31merror[39m: [31mPDF generation attempt 1 failed:[39m
+2025-07-06 22:32:22:3222 [31merror[39m: [31mPDF generation attempt 2 failed:[39m
+2025-07-06 22:32:27:3227 [31merror[39m: [31mPDF generation attempt 3 failed:[39m
+2025-07-06 22:32:27:3227 [31merror[39m: [31mError generating PDF: PDF generation failed after 3 attempts: Protocol error (Page.printToPDF): Target closed[39m
+2025-07-06 22:34:20:3420 [31merror[39m: [31mFailed to generate PDF:[39m
+2025-07-06 22:34:20:3420 [31merror[39m: [31mError generating PDF: PDF generation failed: Protocol error (Page.printToPDF): Target closed[39m
+2025-07-06 22:55:49:5549 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-06 22:55:51:5551 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-06 23:09:10:910 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-06 23:09:12:912 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-06 23:12:59:1259 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:12:59:1259 [31merror[39m: [31mEmail service will be disabled due to verification failure[39m
+2025-07-06 23:12:59:1259 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:12:59:1259 [31merror[39m: [31mEmail service will be disabled due to verification failure[39m
+2025-07-06 23:13:32:1332 [31merror[39m: [31mPOST /api/payment/create-order - Not Found - /api/payment/create-order[39m
+2025-07-06 23:13:35:1335 [31merror[39m: [31mPOST /api/payment/create-order - Not Found - /api/payment/create-order[39m
+2025-07-06 23:14:44:1444 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:14:44:1444 [31merror[39m: [31mEmail service will be disabled due to verification failure[39m
+2025-07-06 23:14:45:1445 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:14:45:1445 [31merror[39m: [31mEmail service will be disabled due to verification failure[39m
+2025-07-06 23:15:32:1532 [31merror[39m: [31mPayment confirmation email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:32:1532 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:15:34:1534 [31merror[39m: [31mE-ticket email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:34:1534 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:15:37:1537 [31merror[39m: [31mPayment confirmation email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:37:1537 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:15:39:1539 [31merror[39m: [31mE-ticket email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:39:1539 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:15:47:1547 [31merror[39m: [31mPayment confirmation email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:47:1547 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:15:50:1550 [31merror[39m: [31mE-ticket email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:15:50:1550 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:16:02:162 [31merror[39m: [31mPayment confirmation email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:16:02:162 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:16:02:162 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:16:02:162 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:16:05:165 [31merror[39m: [31mE-ticket email failed for booking 77618808-b592-4098-81c0-388d465a6b0c:[39m
+2025-07-06 23:16:05:165 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:16:05:165 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:16:05:165 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:17:47:1747 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 23:17:47:1747 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 23:19:10:1910 [31merror[39m: [31mPayment confirmation email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:10:1910 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:12:1912 [31merror[39m: [31mE-ticket email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:12:1912 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:15:1915 [31merror[39m: [31mPayment confirmation email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:15:1915 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:18:1918 [31merror[39m: [31mE-ticket email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:18:1918 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:26:1926 [31merror[39m: [31mPayment confirmation email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:26:1926 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:28:1928 [31merror[39m: [31mE-ticket email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:28:1928 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:41:1941 [31merror[39m: [31mPayment confirmation email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:41:1941 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:41:1941 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:19:41:1941 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:19:43:1943 [31merror[39m: [31mE-ticket email failed for booking 1ebadcaf-d852-4acd-940a-d5fdf85fa8d6:[39m
+2025-07-06 23:19:43:1943 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:19:43:1943 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:19:43:1943 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:26:38:2638 [31merror[39m: [31mPayment confirmation email failed: Connection timeout[39m
+2025-07-06 23:26:38:2638 [31merror[39m: [31mPayment confirmation email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:26:38:2638 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:26:40:2640 [31merror[39m: [31mE-ticket email failed: Connection timeout[39m
+2025-07-06 23:26:40:2640 [31merror[39m: [31mE-ticket email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:26:40:2640 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:26:53:2653 [31merror[39m: [31mPayment confirmation email failed: Connection timeout[39m
+2025-07-06 23:26:53:2653 [31merror[39m: [31mPayment confirmation email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:26:53:2653 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:26:55:2655 [31merror[39m: [31mE-ticket email failed: Connection timeout[39m
+2025-07-06 23:26:55:2655 [31merror[39m: [31mE-ticket email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:26:55:2655 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:27:13:2713 [31merror[39m: [31mPayment confirmation email failed: Connection timeout[39m
+2025-07-06 23:27:13:2713 [31merror[39m: [31mPayment confirmation email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:27:13:2713 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:27:15:2715 [31merror[39m: [31mE-ticket email failed: Connection timeout[39m
+2025-07-06 23:27:15:2715 [31merror[39m: [31mE-ticket email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:27:15:2715 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:27:38:2738 [31merror[39m: [31mPayment confirmation email failed: Connection timeout[39m
+2025-07-06 23:27:38:2738 [31merror[39m: [31mPayment confirmation email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:27:38:2738 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:27:38:2738 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:27:38:2738 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:27:41:2741 [31merror[39m: [31mE-ticket email failed: Connection timeout[39m
+2025-07-06 23:27:41:2741 [31merror[39m: [31mE-ticket email failed for booking bf406267-e7b1-471f-bfa1-cbbb227b546b:[39m
+2025-07-06 23:27:41:2741 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:27:41:2741 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:27:41:2741 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:34:36:3436 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 23:34:37:3437 [31merror[39m: [31mFailed to initialize email transporter:[39m
+2025-07-06 23:36:58:3658 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:36:59:3659 [31merror[39m: [31mEmail transporter verification failed:[39m
+2025-07-06 23:38:21:3821 [31merror[39m: [31mPayment confirmation email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:21:3821 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:24:3824 [31merror[39m: [31mE-ticket email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:24:3824 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:27:3827 [31merror[39m: [31mPayment confirmation email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:27:3827 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:29:3829 [31merror[39m: [31mE-ticket email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:29:3829 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:37:3837 [31merror[39m: [31mPayment confirmation email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:37:3837 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:40:3840 [31merror[39m: [31mE-ticket email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:40:3840 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:52:3852 [31merror[39m: [31mPayment confirmation email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:52:3852 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:52:3852 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:38:52:3852 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-06 23:38:55:3855 [31merror[39m: [31mE-ticket email failed for booking 2881e309-fcde-48ed-a55f-c2f605e4f089:[39m
+2025-07-06 23:38:55:3855 [31merror[39m: [31mEmail task failed[39m
+2025-07-06 23:38:55:3855 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-06 23:38:55:3855 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-07 07:44:26:4426 [31merror[39m: [31mPayment confirmation email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:26:4426 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:28:4428 [31merror[39m: [31mE-ticket email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:28:4428 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:31:4431 [31merror[39m: [31mPayment confirmation email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:31:4431 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:33:4433 [31merror[39m: [31mE-ticket email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:33:4433 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:41:4441 [31merror[39m: [31mPayment confirmation email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:41:4441 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:43:4443 [31merror[39m: [31mE-ticket email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:43:4443 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:56:4456 [31merror[39m: [31mPayment confirmation email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:56:4456 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:56:4456 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-07 07:44:56:4456 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-07 07:44:59:4459 [31merror[39m: [31mE-ticket email failed for booking 3a13bea4-a391-476f-b2f7-db1eb68f4cae:[39m
+2025-07-07 07:44:59:4459 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 07:44:59:4459 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-07 07:44:59:4459 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-07 08:50:24:5024 [31merror[39m: [31mPayment confirmation email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:24:5024 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:26:5026 [31merror[39m: [31mE-ticket email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:26:5026 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:29:5029 [31merror[39m: [31mPayment confirmation email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:29:5029 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:31:5031 [31merror[39m: [31mE-ticket email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:31:5031 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:39:5039 [31merror[39m: [31mPayment confirmation email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:39:5039 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:42:5042 [31merror[39m: [31mE-ticket email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:42:5042 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:55:5055 [31merror[39m: [31mPayment confirmation email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:55:5055 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:55:5055 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-07 08:50:55:5055 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-07 08:50:57:5057 [31merror[39m: [31mE-ticket email failed for booking 6e12d50d-32d2-47a6-8705-79b955a1a341:[39m
+2025-07-07 08:50:57:5057 [31merror[39m: [31mEmail task failed[39m
+2025-07-07 08:50:57:5057 [31merror[39m: [31mEmail permanently failed after 3 retries[39m
+2025-07-07 08:50:57:5057 [31merror[39m: [31mEmail task failed permanently after 3 retries[39m
+2025-07-07 10:27:16:2716 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-07 10:27:18:2718 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-07 10:45:10:4510 [31merror[39m: [31mGET /api/ticket/042bf479-dea4-496c-92b3-0264b7a167fd/pdf - Not Found - /api/ticket/042bf479-dea4-496c-92b3-0264b7a167fd/pdf[39m
+2025-07-07 10:45:10:4510 [31merror[39m: [31mGET /favicon.ico - Not Found - /favicon.ico[39m
+2025-07-07 10:47:49:4749 [31merror[39m: [31mGET /api/ticket/042bf479-dea4-496c-92b3-0264b7a167fd/pdf - Not Found - /api/ticket/042bf479-dea4-496c-92b3-0264b7a167fd/pdf[39m
+2025-07-07 10:47:49:4749 [31merror[39m: [31mGET /favicon.ico - Not Found - /favicon.ico[39m
+2025-07-07 11:59:19:5919 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-07 11:59:21:5921 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-07 12:11:55:1155 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-07 12:11:58:1158 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-07 13:02:56:256 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-07 13:02:56:256 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-07 17:20:20:2020 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-07 17:20:23:2023 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-07 17:27:30:2730 [31merror[39m: [31mFailed to send payment confirmation email:[39m
+2025-07-07 17:27:32:2732 [31merror[39m: [31mFailed to send e-ticket email:[39m
+2025-07-07 23:51:42:5142 [31merror[39m: [31mGET /api/payments - Not Found - /api/payments[39m
+2025-07-07 23:51:42:5142 [31merror[39m: [31mGET /api/payments - Not Found - /api/payments[39m
+2025-07-07 23:53:49:5349 [31merror[39m: [31mGET /api/api/payments - Not Found - /api/api/payments[39m
+2025-07-07 23:53:49:5349 [31merror[39m: [31mGET /api/api/payments - Not Found - /api/api/payments[39m
+2025-07-07 23:53:52:5352 [31merror[39m: [31mGET /api/api/payments - Not Found - /api/api/payments[39m
+2025-07-07 23:53:52:5352 [31merror[39m: [31mGET /api/api/payments - Not Found - /api/api/payments[39m
+2025-07-08 00:00:21:021 [31merror[39m: [31mGET /api/payments - Not Found - /api/payments[39m
+2025-07-08 00:00:21:021 [31merror[39m: [31mGET /api/payments - Not Found - /api/payments[39m
+2025-07-08 00:10:47:1047 [31merror[39m: [31mGET /api/api/flights - Not Found - /api/api/flights[39m
+2025-07-08 00:10:47:1047 [31merror[39m: [31mGET /api/api/flights - Not Found - /api/api/flights[39m
+2025-07-08 00:18:42:1842 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:18:42:1842 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:19:15:1915 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:19:15:1915 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:19:18:1918 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:19:18:1918 [31merror[39m: [31mGET /api/admin/flights - Not Found - /api/admin/flights[39m
+2025-07-08 00:42:40:4240 [31merror[39m: [31mGET /api/admin/dashboard - Not Found - /api/admin/dashboard[39m
