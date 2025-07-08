@@ -47,8 +47,13 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get('/',(req,res)=> {
+  res.status(200).json({"message":"Hi This is an API For ThenaAir Flight Booking system"});
+});
+
 // API routes
 app.use('/api', routes);
+
 
 // Error handling middleware
 app.use(notFound);
