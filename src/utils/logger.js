@@ -1,4 +1,11 @@
 const winston = require('winston');
+const fs = require('fs');
+const path = require('path');
+
+const logDir = path.join(__dirname, '../../logs');
+if (process.env.NODE_ENV !== 'production' && !fs.existsSync(logDir)) {
+  fs.mkdirSync(logDir, { recursive: true });
+}
 
 // Define log levels
 const levels = {
@@ -18,34 +25,32 @@ const colors = {
   debug: 'white',
 };
 
-// Tell winston that you want to link the colors
 winston.addColors(colors);
 
-// Define which level to log based on environment
+// Determine current log level
 const level = () => {
   const env = process.env.NODE_ENV || 'development';
-  const isDevelopment = env === 'development';
-  return isDevelopment ? 'debug' : 'warn';
+  return env === 'development' ? 'debug' : 'warn';
 };
 
-// Define format for logs
+// Define format
 const format = winston.format.combine(
-  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss:ms' }),
+  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
   winston.format.colorize({ all: true }),
-  winston.format.printf(
-    (info) => `${info.timestamp} ${info.level}: ${info.message}`,
-  ),
+  winston.format.printf(info => `${info.timestamp} ${info.level}: ${info.message}`)
 );
 
-// Define transports
+// Always use console, only use files in non-prod
 const transports = [
   new winston.transports.Console(),
-  new winston.transports.File({
-    filename: 'logs/error.log',
-    level: 'error',
-  }),
-  new winston.transports.File({ filename: 'logs/all.log' }),
 ];
+
+if (process.env.NODE_ENV !== 'production') {
+  transports.push(
+    new winston.transports.File({ filename: path.join(logDir, 'error.log'), level: 'error' }),
+    new winston.transports.File({ filename: path.join(logDir, 'all.log') })
+  );
+}
 
 // Create the logger
 const logger = winston.createLogger({
@@ -55,4 +60,4 @@ const logger = winston.createLogger({
   transports,
 });
 
-module.exports = logger; 
+module.exports = logger;
