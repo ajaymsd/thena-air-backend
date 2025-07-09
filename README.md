@@ -41,7 +41,7 @@ This is the **backend service** for the **ThenaAir Flight Booking System**, a No
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/flight-booking-backend.git](https://github.com/ajaymsd/thena-air-backend.git)
+git clone https://github.com/your-username/flight-booking-backend.git
 cd thena-air-backend
 ```
 
@@ -80,7 +80,7 @@ MAX+EMAIL_WORKERS=2
 ## Supabase Tables creation
 1. Go to your supabase project
 2. Open SQL Editor
-3. Go the path - thena-air-backend/src/database/thena-air-db-query.sql
+3. Go the path - thena-air-backend/src/database/schema.sql
 4. Paste the below sql queries to create tables
 
 ## 🧪 Run the App Locally
@@ -131,7 +131,6 @@ Instead:
 ├── .env                          # Environment variables
 ├── package.json                  # Project metadata and dependencies
 ├── README.md                     # Project documentation
-│
 └── src/
     ├── config/                   # Configuration files
     │   ├── email.js              # Nodemailer config
@@ -144,6 +143,9 @@ Instead:
     │
     ├── lib/
     │   └── supabase.js           # Supabase database connection/util
+    │
+    ├── database/
+    │   └── schema.sql           # Supabase Table schema(Query to execute for creating tables in supabase)
     │
     ├── middleware/               # Custom middleware
     │   ├── adminAuth.js          # Admin JWT auth guard
