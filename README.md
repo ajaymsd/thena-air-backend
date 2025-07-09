@@ -107,14 +107,14 @@ npm start
 ```
 
 Then open:  
-➡️ `http://localhost:3000/api-docs`
+➡️ `http://localhost:3001/api-docs`
 
 ### 🌐 View on Vercel:
 Swagger UI won’t load on Vercel due to static file issues.
 
 Instead:
 
-1. Visit `https://<your-vercel-app>.vercel.app/swagger.json`
+1. Visit `https://thena-air-backend.vercel.app/swagger.json`
 2. Go to [https://editor.swagger.io](https://editor.swagger.io)
 3. Click **File → Import URL**
 4. Paste the above Swagger JSON URL
@@ -125,25 +125,51 @@ Instead:
 ## 📁 Project Structure
 
 ```
-src/
+.
+├── server.js                     # Main entry point for local/server environments
+├── vercel.json                   # Vercel serverless deployment config
+├── .env                          # Environment variables
+├── package.json                  # Project metadata and dependencies
+├── README.md                     # Project documentation
 │
-├── routes/              # All route definitions
-│   ├── adminRoutes.js   # Admin endpoints
-│   └── paymentRoutes.js # Payment handling
-│
-├── controllers/         # Business logic for each route
-│   ├── adminController.js
-│   └── paymentController.js
-│
-├── middleware/          # Auth, validation, rate limiting
-│   └── validation.js
-│
-├── utils/
-│   ├── email.js         # Email sending logic (nodemailer)
-│   └── swagger.js       # Swagger setup
-│
-├── app.js               # Express app setup
-└── server.js            # Entry point (for local/dev)
+└── src/
+    ├── config/                   # Configuration files
+    │   ├── email.js              # Nodemailer config
+    │   └── razorpay.js           # Razorpay instance setup
+    │
+    ├── controllers/              # Route controller logic
+    │   ├── adminController.js    # Admin flight/bookings/payments
+    │   ├── paymentController.js  # Razorpay payments
+    │   └── ticketController.js   # Ticket handling (e.g., post-payment)
+    │
+    ├── lib/
+    │   └── supabase.js           # Supabase database connection/util
+    │
+    ├── middleware/               # Custom middleware
+    │   ├── adminAuth.js          # Admin JWT auth guard
+    │   ├── errorHandler.js       # Global error handler
+    │   └── validation.js         # Request validation & rate limiting
+    │
+    ├── routes/                   # Express routes
+    │   ├── index.js              # Master router that combines all
+    │   ├── adminRoutes.js        # Admin flight/dashboard routes
+    │   ├── paymentRoutes.js      # Razorpay payment routes
+    │   └── ticketRoutes.js       # Ticket download/email routes
+    │
+    ├── services/                 # Business logic (non-controller)
+    │   ├── emailService.js       # Handles sending emails
+    │   ├── pdfService.js         # Generates PDFs for tickets
+    │   └── workerManager.js      # Background workers for email, etc.
+    │
+    ├── utils/                    # Helper utilities
+    │   ├── crypto.js             # Encryption, hashing utilities
+    │   ├── logger.js             # Logger setup
+    │   ├── swagger.js            # Swagger JSDoc setup
+    │   └── validation.js         # Schema validators
+    │
+    └── workers/
+        └── emailWorker.js        # Email processing in background
+
 ```
 
 ---
