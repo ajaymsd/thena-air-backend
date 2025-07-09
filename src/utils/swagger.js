@@ -8,9 +8,10 @@ const options = {
     info: {
       title: 'Thena AirFlight Booking API',
       version: '1.0.0',
+      description: 'API documentation for the backend system',
     },
   },
-  apis: [path.join(__dirname, '../routes/*.js')], // ✅ relative path to routes
+  apis: [path.join(__dirname, '../routes/*.js')],
 };
 
 const swaggerSpec = swaggerJSDoc(options);
@@ -20,4 +21,7 @@ module.exports = (app) => {
     res.setHeader('Content-Type', 'application/json');
     res.send(swaggerSpec);
   });
+
+  // Serve Swagger UI (will work only in local/dev)
+  app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 };
