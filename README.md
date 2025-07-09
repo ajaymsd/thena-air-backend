@@ -1,5 +1,5 @@
 
-# ✈️ Thena AirFlight Booking System – Backend
+# ✈️ ThenaAir Flight Booking System – Backend
 
 This is the **backend service** for the **ThenaAir Flight Booking System**, a Node.js and Express.js application responsible for:
 
