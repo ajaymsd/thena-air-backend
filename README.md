@@ -71,7 +71,7 @@ SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 SMTP_USER=your-email@example.com
 SMTP_PASS=your-email-password
-MAX+EMAIL_WORKERS=2
+MAX_EMAIL_WORKERS=2
 ```
 > ⚠️ Keep your `.env` file private and **never commit it** to GitHub!
 
